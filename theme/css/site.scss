@@ -1,0 +1,25 @@
+---
+---
+
+// Customise bootstrap, and set site-wide variables.
+@import 'variables';
+
+// Include Bootstrap.
+@import 'bootstrap/bootstrap';
+
+// Include SCSS for the theme itself.
+@import 'theme';
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #2b2a33 !important;
+}
+
+.navbar {
+    background: linear-gradient(45deg, #5d2259, #172444) !important;
+}
+
+// title link in top left
+.navbar-brand {
+    // TODO: something
+}
