@@ -12,18 +12,7 @@
 {% capture col2 %}{% if page.narrow %}9{% else %}8{% endif %}{% endcapture %}
 
 <div class="container-fluid site-container" id="top">
-    <div class="row no-gutters">
-        <!-- <div class="d-none d-lg-block col-lg-4 col-xl-{{ col1 }} side">
-            {% include bars/side.html %}
-        </div> -->
-        <!-- <div class="col-md-12 col-lg-8 col-xl-{{ col2 }} pb-4 content"> -->
-        <!-- <div class="col content"> -->
-            {{ content }}
-        <!-- </div> -->
-        <div class="col-md-12 d-lg-none bottom">
-            {% include bars/bottom.html %}
-        </div>
-    </div>
+    {{ content }}
 </div>
 
 <script type="text/javascript">
