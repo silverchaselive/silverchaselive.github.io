@@ -1,3 +1,6 @@
+<!-- Drop YouTube stream ID here -->
+{% assign ytid = "dgp0IXJqZ0c" %}
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +15,19 @@
 {% capture col2 %}{% if page.narrow %}9{% else %}8{% endif %}{% endcapture %}
 
 <div class="container-fluid site-container" id="top">
-    {{ content }}
+    <div class="row no-gutters">
+        <iframe class="col-md" style="height: 86vh" src="https://www.youtube-nocookie.com/embed/{{ ytid }}"
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+        <div class="col-md-2">
+            <iframe id="chat" src="//embed.tlk.io/ztg?theme=theme--night" style="margin-bottom: -8px;" width="100%"
+                height="100%" frameborder="0">
+            </iframe>
+        </div>
+    </div>
+    <div class="container">
+        {{ content }}
+    </div>
 </div>
 
 <script type="text/javascript">
