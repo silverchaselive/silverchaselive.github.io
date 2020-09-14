@@ -4,7 +4,7 @@ permalink: index.html
 narrow: false
 title: Stream
 ---
-<!-- embeds are in _layouts/stream.html -->
+<!-- stream id, date, and time are in _config.yml -->
 
 # Party Club 30: In the Corner
 * Trivia Murder Party 2
