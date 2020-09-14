@@ -6,10 +6,7 @@ title: Stream
 ---
 <!-- embeds are in _layouts/stream.html -->
 
-If you can't see the chat, try turning off your ad blocker.
-{:.alert .alert-info}
-
-# Party Club 29: Really Here Edition
+# Party Club 30: In the Corner
 * Trivia Murder Party 2
 * Drawful 2
 * *10-minute break*

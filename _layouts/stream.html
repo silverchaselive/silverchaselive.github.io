@@ -1,5 +1,5 @@
 <!-- Drop YouTube stream ID here -->
-{% assign ytid = "nQzwVnwiTV0" %}
+{% assign ytid = "chA9BXgu6qA" %}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -26,7 +26,23 @@
         </div>
     </div>
     <div class="container">
-        {{ content }}
+        <div class="row">
+            <div class="col-md">
+                {{ content }}
+            </div>
+            <div class="col-md-3">
+                <div class="alert alert-warning d-flex align-items-center">
+                    <span class="icon grey mr-2">
+                        {% include entypo/help-with-circle.svg %}
+                    </span>
+                    If chat isn't loading
+                </div>
+                <ul>
+                    <li>Try disabling ad blockers or privacy extensions for this site</li>
+                    <li>Access the chat directly at <a href="https://tlk.io/ztg">tlk.io/ztg</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
 
