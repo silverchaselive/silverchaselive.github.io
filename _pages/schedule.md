@@ -5,7 +5,7 @@ narrow: true
 title: Schedule
 ---
 
-Streams happen every other Thursday, on the same day as Thematic Thursday. See the thread OP for more information. I'll announce the time in advance.
+Streams happen every other Thursday, on the same day as Thematic Thursday. I usually alternate between evening time in the Americas and evening time in Europe, which I'll announce in advance.
 
 ## Next stream
 Date: Thursday, {{ site.date }}
