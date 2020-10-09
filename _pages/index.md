@@ -7,9 +7,9 @@ title: Stream
 <!-- stream id, date, and time are in _config.yml -->
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
-# Party Club 31: Paged Out
-* Earwax {% include badges/jokes.html %}
-* Bracketeering {% include badges/other.html %}
+# Party Club 32: Party Pack 7 Special
+* The Devils and the Details {% include badges/other.html %}
+* Champ'd Up {% include badges/drawing.html %}
 * *10-minute break*
-* Patently Stupid {% include badges/drawing.html %}
-* Split the Room {% include badges/strategy.html %}
+* Blather 'Round {% include badges/strategy.html %}
+* Quiplash 3 {% include badges/jokes.html %}
