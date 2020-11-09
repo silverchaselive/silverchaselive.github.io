@@ -1,7 +1,7 @@
 # Global values for silverchaselive pages to pull
 # ===============================================
-date: October 29        # date, excluding "Thursday, "
-time_: 6 pm EDT           # time with timezone (underscore dodges a name conflict)
+date: ???        # date, excluding "Thursday, "
+time_: 9 pm EDT           # time with timezone (underscore dodges a name conflict)
 ytid: kps30ml5hyU         # youtube stream's video slug
 # ===============================================
 
