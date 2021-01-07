@@ -3,7 +3,7 @@ Mixer died on July 22, 2020. This is the site where streams will be from now on.
 
 ## Notes
 ### Before streams
-* Set date and ytid in `_config.yml`
+* Set date in `_config.yml`
 * Add game list in `index.md` along with a badge
 
 ### Build and launch locally
