@@ -1,6 +1,6 @@
 # Global values for silverchaselive pages to pull
 # ===============================================
-date: ???        # date, excluding "Thursday, "
+date: February 4          # date, excluding "Thursday, "
 time_: 9 pm EST           # time with timezone (underscore dodges a name conflict)
 # ===============================================
 
