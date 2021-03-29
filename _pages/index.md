@@ -7,9 +7,9 @@ title: Stream
 <!-- date and time are in _config.yml -->
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
-# Party Club 37: Sufficiently Advanced
-* Guesspionage {% include badges/trivia.html %}
-* Survive the Internet {% include badges/jokes.html %}
+# Party Club 38: Be Friends
+* Fibbage 3 {% include badges/trivia.html %}
+* Quiplash 3 {% include badges/jokes.html %}
 * *10-minute break*
-* Champ'd Up {% include badges/drawing.html %}
-* Bracketeering {% include badges/other.html %}
+* Bidiots {% include badges/drawing.html %}
+* Blather Round {% include badges/other.html %}
