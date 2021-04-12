@@ -7,9 +7,9 @@ title: Stream
 <!-- date and time are in _config.yml -->
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
-# Party Club 38: Be Friends
-* Fibbage 3 {% include badges/trivia.html %}
-* Quiplash 3 {% include badges/jokes.html %}
+# The 39th First Annual Party Club
+* Fibbage: Enough About You {% include badges/trivia.html %}
+* Tee K.O. {% include badges/drawing.html %}
 * *10-minute break*
-* Bidiots {% include badges/drawing.html %}
-* Blather Round {% include badges/other.html %}
+* Mad Verse City {% include badges/jokes.html %}
+* Split the Room {% include badges/strategy.html %}
