@@ -5,7 +5,7 @@ narrow: true
 title: Schedule
 ---
 
-Party Club streams happen on the same day as Thematic Thursday. I'll announce the day and time in advance.
+Party Club streams happen on a Thursday. I'll announce the day and time in advance.
 
 ## Next stream
 Date: Thursday, {{ site.date }}

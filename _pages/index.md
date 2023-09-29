@@ -8,12 +8,9 @@ title: Stream
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
 
-<!-- # Party Club 40: Roll for Party Games
-* The Wheel of Enormous Proportions {% include badges/trivia.html %}
-* Job Job {% include badges/jokes.html %}
-* *10-minute break*
+# Party Club 41: Revenge of the Party
+* Fibbage 4 {% include badges/trivia.html %}
 * Drawful: Animate {% include badges/drawing.html %}
-* Fibbage 3 {% include badges/trivia.html %}
- -->
- 
- # Special broadcast
+* *10-minute break*
+* Job Job {% include badges/jokes.html %}
+* Earwax {% include badges/jokes.html %}
