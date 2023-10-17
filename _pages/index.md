@@ -8,9 +8,9 @@ title: Stream
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
 
-# Party Club 41: Revenge of the Party
-* Fibbage 4 {% include badges/trivia.html %}
-* Drawful: Animate {% include badges/drawing.html %}
+# Party Club 42: Out of Ten Edition
+* Dodo Re Mi, a rhythm game??? {% include badges/other.html %}
+* Tee K.O. 2 {% include badges/drawing.html %}
 * *10-minute break*
-* Job Job {% include badges/jokes.html %}
-* Earwax {% include badges/jokes.html %}
+* Timejinx {% include badges/trivia.html %}
+* *(open slot!)* <!-- {% include badges/jokes.html %} -->
