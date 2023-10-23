@@ -8,9 +8,9 @@ title: Stream
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
 
-# Party Club 42: Out of Ten Edition
-* Dodo Re Mi, a rhythm game??? {% include badges/other.html %}
-* Tee K.O. 2 {% include badges/drawing.html %}
+# Party Club 43: Late for Halloween
+* Trivia Murder Party 2 {% include badges/trivia.html %}
+* FixyText {% include badges/other.html %}
 * *10-minute break*
-* Timejinx {% include badges/trivia.html %}
-* *(open slot!)* <!-- {% include badges/jokes.html %} -->
+* Patently Stupid {% include badges/drawing.html %}
+* Poll Mine {% include badges/strategy.html %}
