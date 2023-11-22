@@ -8,9 +8,9 @@ title: Stream
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
 
-# Party Club 43: Late for Halloween
-* Trivia Murder Party 2 {% include badges/trivia.html %}
-* FixyText {% include badges/other.html %}
+# Party Club 44: Cold Nights
+* The Wheel of Enormous Proportions {% include badges/trivia.html %}
+* Champ'd Up {% include badges/drawing.html %}
 * *10-minute break*
-* Patently Stupid {% include badges/drawing.html %}
-* Poll Mine {% include badges/strategy.html %}
+* (New!) Tic Tac Together {% include badges/strategy.html %}
+* Dodo Re Mi {% include badges/other.html %}
