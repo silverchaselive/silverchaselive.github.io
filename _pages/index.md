@@ -1,9 +1,11 @@
 ---
-layout: stream
+layout: default
 permalink: index.html
 narrow: false
 title: Stream
 ---
+# Wait, where's the stream?
+It's on Piczel this time. [See you there!](https://piczel.tv/watch/silverchase)
 <!-- date and time are in _config.yml -->
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
