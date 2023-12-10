@@ -10,9 +10,9 @@ It's on Piczel this time. [See you there!](https://piczel.tv/watch/silverchase)
 
 <!-- badges to go with game name: jokes, drawing, trivia, strategy, other -->
 
-# Party Club 44: Cold Nights
-* The Wheel of Enormous Proportions {% include badges/trivia.html %}
-* Champ'd Up {% include badges/drawing.html %}
+# Party Club 45: Tube Gaming
+* Tic Tac Together {% include badges/strategy.html %}
+* Nonsensory {% include badges/drawing.html %}
 * *10-minute break*
-* (New!) Tic Tac Together {% include badges/strategy.html %}
-* Dodo Re Mi {% include badges/other.html %}
+* You Don't Know Jack {% include badges/trivia.html %}
+* Split the Room {% include badges/strategy.html %}
